@@ -1,0 +1,4 @@
+Implementation of the tabula-py package allowing user to select visually the area of interest and the columns positions.
+
+poppler is required to run.
+
